@@ -1,0 +1,17 @@
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\bin\Debug\CRMGuruCountriesBrowser.exe.config
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\bin\Debug\CRMGuruCountriesBrowser.exe
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\bin\Debug\CRMGuruCountriesBrowser.pdb
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\bin\Debug\Dapper.dll
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\bin\Debug\Dapper.xml
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Debug\CountryBrowser.UI.resources
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Debug\CRMGuruCountriesBrowser.Properties.Resources.resources
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Debug\CountryBrowser.csproj.GenerateResource.cache
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Debug\CountryBrowser.csproj.CoreCompileInputs.cache
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Debug\CountryBrowser.csproj.CopyComplete
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Debug\CRMGuruCountriesBrowser.exe
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Debug\CRMGuruCountriesBrowser.pdb
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Debug\CountryBrowser.csproj.AssemblyReference.cache

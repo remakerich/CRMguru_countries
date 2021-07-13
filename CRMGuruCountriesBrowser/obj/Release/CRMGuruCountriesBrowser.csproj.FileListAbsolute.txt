@@ -1,0 +1,13 @@
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\bin\Release\CRMGuruCountriesBrowser.exe.config
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\bin\Release\CRMGuruCountriesBrowser.exe
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\bin\Release\CRMGuruCountriesBrowser.pdb
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\bin\Release\Dapper.dll
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\bin\Release\Dapper.xml
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Release\CRMGuruCountriesBrowser.csproj.AssemblyReference.cache
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Release\CRMGuruCountriesBrowser.UI.resources
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Release\CRMGuruCountriesBrowser.Properties.Resources.resources
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Release\CRMGuruCountriesBrowser.csproj.GenerateResource.cache
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Release\CRMGuruCountriesBrowser.csproj.CoreCompileInputs.cache
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Release\CRMGuruCountriesBrowser.csproj.CopyComplete
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Release\CRMGuruCountriesBrowser.exe
+C:\Users\rmq\dotnet Projects\CRMguru\CRMGuruCountriesBrowser\CRMGuruCountriesBrowser\obj\Release\CRMGuruCountriesBrowser.pdb
